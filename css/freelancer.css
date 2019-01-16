@@ -17,7 +17,9 @@ h6{
   font-weight: 700;
   font-family: 'Days One', sans-serif;
 }
-
+.img{
+  max-width: 200px;
+}
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
